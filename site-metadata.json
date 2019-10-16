@@ -1,9 +1,9 @@
 {
-  "title": "Stackbit Ampersand Theme",
+  "title": "프로그래밍, 스타트업, 퀀트 투자",
   "layout_style": "grid",
-  "palette": "black",
+  "palette": "blue",
   "header": {
-    "title": "Ampersand",
+    "title": "make.codes",
     "logo_img": "images/logo.png",
     "has_nav": true
   },
