@@ -3,7 +3,7 @@ template: post
 title: 파이썬 pickle이 직렬화할 수 없는 객체 - 1
 subtitle: 파이썬 pickle 모듈이 직렬화/역직렬화할 수 없는 객체와 그 이유에 대해서 알아봅니다.
 date: 2019-11-03T12:00:00Z
-thumb_img_path: "/images/python-logo-inkscape.svg"
+thumb_img_path: "/images/python-logo-master-v3-TM-flattened.jpg"
 content_img_path: ''
 excerpt: 파이썬 pickle 모듈이 직렬화/역직렬화할 수 없는 객체와 그 이유에 대해서 알아봅니다.
 
