@@ -36,3 +36,5 @@ fields:
   default: post
   config:
     required: true
+pages:
+- src/pages/posts/파이썬이-피클링할-수-없는-객체-1.md
