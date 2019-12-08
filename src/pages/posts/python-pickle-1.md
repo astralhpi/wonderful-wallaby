@@ -1,14 +1,13 @@
 ---
 template: post
-title: 파이썬 pickle이 직렬화할 수 없는 객체 - 1
+title: 파이썬 pickle이 직렬화할 수 없는 객체 - 1/2
 subtitle: 파이썬 pickle 모듈이 직렬화/역직렬화할 수 없는 객체와 그 이유에 대해서 알아봅니다.
-date: 2019-11-03T12:00:00Z
+date: 2019-11-03T12:00:00.000+00:00
 thumb_img_path: "/images/python-logo-master-v3-TM-flattened.jpg"
 content_img_path: ''
 excerpt: 파이썬 pickle 모듈이 직렬화/역직렬화할 수 없는 객체와 그 이유에 대해서 알아봅니다.
 
 ---
-
 ## pickle이란?
 
  파이썬에는 pickle이라는 객체를 직렬화/역직렬화 하기 위한 모듈이 있습니다. 파이썬에서 모든 것은 객체이기 때문에 거의 모든 것을 직렬화/역직렬화가 가능한 모듈이지요. 그래서 이 모듈은 다양한 용도로  사용됩니다.  대표적으로 파이썬에 내장 어있는 multiprocessing 모듈은 프로세스 간에 파이썬 객체를 주고받기 위해서 pickle을 사용합니다. 
